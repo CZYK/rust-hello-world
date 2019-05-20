@@ -1,1 +1,0 @@
-/home/danko/source/github.com/CZYK/rust-hello-world/ch02-00-guessing-game-tutorial/target/debug/ch02-00-guessing-game-tutorial: /home/danko/source/github.com/CZYK/rust-hello-world/ch02-00-guessing-game-tutorial/src/main.rs
