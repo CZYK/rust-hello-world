@@ -1,0 +1,8 @@
+[package]
+name = "ch02-00-guessing-game-tutorial"
+version = "0.1.0"
+authors = ["Danko Adamczyk <danko@czyk.nl>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
